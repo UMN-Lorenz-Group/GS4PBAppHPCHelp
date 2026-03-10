@@ -1,0 +1,6 @@
+# Container images (large binary files — distribute separately)
+*.sif
+*.simg
+
+# Runtime working directories (auto-created by run_app.sh)
+runtime/
