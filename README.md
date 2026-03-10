@@ -13,8 +13,8 @@ Runs a containerized R Shiny app using a `.sif` image with a single command.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/GS4PBDockerTst.git
-cd GS4PBDockerTst
+git clone https://github.com/UMN-Lorenz-Group/GS4PBAppHPCHelp.git
+cd GS4PBAppHPCHelp
 
 # 2. Place (or symlink) your .sif image here
 cp /path/to/gs4pb_updated.sif .
