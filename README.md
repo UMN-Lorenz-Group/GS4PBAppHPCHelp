@@ -64,8 +64,7 @@ runtime/
 ---
 
 ## Obtaining the Image
-
-> *(Replace this section with your actual distribution method.)*
+> 
 
 Option A — pull from a registry:
 ```bash
