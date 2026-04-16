@@ -1,0 +1,9 @@
+# API key — never commit
+env/.env
+
+# Container images
+*.sif
+*.simg
+
+# Runtime working directories (auto-created by run_app_ai.sh)
+runtime/
