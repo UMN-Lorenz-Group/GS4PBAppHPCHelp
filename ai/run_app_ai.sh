@@ -90,6 +90,7 @@ APPTAINERENV_HOME="/r-home" \
 APPTAINERENV_TMPDIR="/r-tmp" \
 APPTAINERENV_PATH="/usr/local/lib/R/bin:/usr/local/bin:/usr/bin:/bin" \
 APPTAINERENV_LD_LIBRARY_PATH="/usr/local/lib/R/lib:/usr/lib/R/lib:/usr/lib/jvm/java-11-openjdk-amd64/lib/server" \
+APPTAINERENV_XDG_CACHE_HOME="/root/.cache" \
 APPTAINERENV_ANTHROPIC_API_KEY="$ANTHROPIC_API_KEY" \
 "$RUNTIME" exec \
   --no-home \
